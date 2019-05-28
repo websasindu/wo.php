@@ -2,6 +2,7 @@
 Web O/S Simple And Secure PHP Library And Framework
 
 #usege 
+<code>
 <?php
 include("wo.php");
 
@@ -41,3 +42,4 @@ if(is_array($data_insert)){
     echo 'SQL error';
   }
 }
+</code>
